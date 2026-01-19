@@ -7,7 +7,7 @@
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/roshan-patil-developer/">
+  <a href="https://www.linkedin.com/in/roshan-patil-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:patilroshankishor@gmail.com">
@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsroshan09&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsroshan09&theme=tokyonight&hide_border=true" height="180" alt="streak graph" /> -->
 </p>
 
 <p align="center">
