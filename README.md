@@ -1,7 +1,7 @@
 <!-- ================= HERO SECTION ================= -->
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#4FC3F7">Roshan Patil</span>
+  <span style="color:#4FC3F7">Roshan Patil</span>
 </h1>
 
 <h3 align="center">
