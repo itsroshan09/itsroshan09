@@ -72,14 +72,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
- ## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsroshan09&theme=tokyo-night&hide_border=true)
-
-
-
 
 </p>
+  <!-- ## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsroshan09&theme=tokyo-night&hide_border=true) -->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
