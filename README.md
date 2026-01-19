@@ -30,6 +30,7 @@
 🎓 **Bachelor of Engineering – Computer Engineering**  
 💻 Strong interest in **Web, Android & Full-Stack Development**  
 🏆 **2nd Place – CodeZila Hackathon (VIT Pune)**  
+👥 **Best Performing Team – CodeVerse Hackathon**
 🔥 Created **25+ practical, real-world projects**  
 🌱 Actively learning **Advanced Backend Systems & Architecture**
 
