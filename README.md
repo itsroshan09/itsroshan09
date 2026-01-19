@@ -1,34 +1,80 @@
-<!-- ================= HERO ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Roshan%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20•%20Android%20•%20Java%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Roshan+Patil;Web+%7C+Android+%7C+Java+Developer;Hackathon+Winner+%7C+Problem+Solver" />
-</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Clean+Code+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Engineering+Student" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <b>Engineering Student • Builder Mindset • Clean Code Advocate</b>
-</p>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsroshan09&style=for-the-badge&color=0E75B6" />
   <a href="https://www.linkedin.com/in/roshan-patil-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:patilroshankishor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="https://github.com/itsroshan09">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<p align="center">
-  <i>“Turning ideas into scalable, real-world software.”</i>
-</p>
+  <br/><br/>
+  
+  <i>“Building real-world solutions with clean code, strong fundamentals, and scalable design.”</i>
+</div>
 
 ---
 
-## 👨‍💻 Who Am I?
+### 🚀 About Me
 
-```yaml
-Name: Roshan Patil
-Role: Web & Android Developer
-Education: BE Computer Engineering
-Location: Pune, Maharashtra, India
-Mindset: Build → Learn → Optimize → Repeat
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
+
+🎓 **Bachelor of Engineering – Computer Engineering** 💻 Focused on building **scalable Web, Android & Full-Stack applications** 🔥 Delivered **20+ real-world projects** with clean architecture  
+🌱 Actively learning **Advanced Backend Systems & Architecture**
+
+**🏆 Trophy Case**
+* 🥇 **2nd Place** – CodeZila Hackathon (VIT Pune)
+* 👥 **Best Team** – CodeVerse Hackathon
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Languages** | **Web & App** | **Tools & DB** |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) <br/> ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <br/> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br/> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) <br/> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table style="border:none;">
+    <tr>
+      <td align="center" style="border:none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" width="400" />
+      </td>
+      <td align="center" style="border:none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsroshan09&theme=midnight-owl&hide_border=true" width="400" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=midnight-owl&hide_border=true&langs_count=6" width="60%" />
+</div>
+
+---
+
+### 🧠 Experience Distribution
+
+```mermaid
+pie
+    title "Dev Focus Area"
+    "Web Development" : 40
+    "Android Development" : 25
+    "Backend (Django/PHP)" : 20
+    "Databases & Tools" : 10
+    "Problem Solving" : 5
