@@ -51,21 +51,14 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <table style="border:none;">
-    <tr>
-      <td align="center" style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" width="400" />
-      </td>
-      <td align="center" style="border:none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsroshan09&theme=midnight-owl&hide_border=true" width="400" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=midnight-owl&hide_border=true&langs_count=6" width="60%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsroshan09&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+</p>
 ---
 
 ### 🧠 Experience Distribution
