@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Roshan%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20•%20Android%20•%20Java%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Clean+Code+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Engineering+Student" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4DD0E1&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Clean+Code+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Engineering+Student">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Clean+Code+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Engineering+Student" alt="Typing SVG" />
+    </picture>
   </a>
 
   <br/><br/>
@@ -52,12 +55,17 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsroshan09&theme=tokyonight&hide_border=true" height="180" alt="streak graph" /> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=default&hide_border=true" height="180" alt="stats graph" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=default&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  </picture>
 </p>
 
 ---
