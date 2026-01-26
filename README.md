@@ -1,28 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Roshan%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20•%20Android%20•%20Java%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Roshan%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20•%20Android%20•%20Java%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4DD0E1&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Clean+Code+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Engineering+Student">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Clean+Code+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Engineering+Student" alt="Typing SVG" />
-    </picture>
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Clean+Code+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Engineering+Student" alt="Typing SVG" />
+  </a>
 
-  <br/><br/>
+  <br/><br/>
 
-  <a href="https://www.linkedin.com/in/roshan-patil-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:patilroshankishor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/itsroshan09">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/roshan-patil-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:patilroshankishor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/itsroshan09">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-  <br/><br/>
-  
-  <i>“Building real-world solutions with clean code, strong fundamentals, and scalable design.”</i>
+  <br/><br/>
+  
+  <i>“Building real-world solutions with clean code, strong fundamentals, and scalable design.”</i>
 </div>
 
 ---
@@ -31,7 +28,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
 
-🎓 **Bachelor of Engineering – Computer Engineering** 💻 Focused on building **scalable Web, Android & Full-Stack applications** 🔥 Delivered **20+ real-world projects** with clean architecture  
+🎓 **Bachelor of Engineering – Computer Engineering** 💻 Focused on building **scalable Web, Android & Full-Stack applications** 🔥 Delivered **20+ real-world projects** with clean architecture  
 🌱 Actively learning **Advanced Backend Systems & Architecture**
 
 **🏆 Trophy Case**
@@ -55,17 +52,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=default&hide_border=true" height="180" alt="stats graph" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsroshan09&theme=tokyonight&hide_border=true" height="180" alt="streak graph" /> -->
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=default&hide_border=true&langs_count=6" height="180" alt="languages graph" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </p>
 
 ---
@@ -74,9 +66,12 @@
 
 ```mermaid
 pie
-    title "Dev Focus Area"
-    "Web Development" : 40
-    "Android Development" : 25
-    "Backend (Django/PHP)" : 20
-    "Databases & Tools" : 10
-    "Problem Solving" : 5
+    title "Dev Focus Area"
+    "Web Development" : 40
+    "Android Development" : 25
+    "Backend (Django/PHP)" : 20
+    "Databases & Tools" : 10
+    "Problem Solving" : 5
+
+
+i want this readme as it is but it is looking weird in dark mode. i want it to look good in both kight and dark mode
