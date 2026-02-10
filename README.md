@@ -52,23 +52,7 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsroshan09&show_icons=true&theme=default&hide_border=true" height="180" alt="stats graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshan09&layout=compact&theme=default&hide_border=true&langs_count=6" height="180" alt="languages graph" />
-  </picture>
-</p>
-
----
 
 ### 🧠 Experience Distribution
 
